@@ -1,0 +1,1 @@
+# ROR_test_task_for_trainee
